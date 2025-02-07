@@ -1,4 +1,7 @@
-[![MasterHead]([([[https://rishavchanda.io](https://s7.ezgif.com/tmp/ezgif-744074c06a0d6.gif](https://drive.google.com/file/d/1YOz0hnQWLpfLbXqUalvLRBjK-Pw_Ajnf/view?usp=sharing)))))]
+<p align="center">
+  <img src="https://github.com/satish-shinde/satish-shinde/blob/main/first%20image.gif" alt="MasterHead" width="100%">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Satish Shinde</h1>
 <h3 align="center">🔥 Passionate about problem-solving & clean code 💡 Learning, building, and sharing knowledge</h3>
